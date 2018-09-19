@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nn\ dd
+comment0.target=Fraction(int,\ int)
+comment1.params=a\ b
+comment1.target=int\ hcf(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ lcm(int,\ int)
+comment3.params=f
+comment3.target=Fraction\ addto(Fraction)
+comment4.params=g
+comment4.target=void\ main(java.lang.String[])
+numComments=5

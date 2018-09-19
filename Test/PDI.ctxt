@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ main(java.lang.String[])
+comment1.params=no
+comment1.target=boolean\ isPDI(int)
+comment2.params=no
+comment2.target=boolean\ isperfect(int)
+numComments=3

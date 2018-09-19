@@ -1,0 +1,1 @@
+public interface Firebreather extends Animal{}
